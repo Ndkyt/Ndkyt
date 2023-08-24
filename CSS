@@ -1,0 +1,42 @@
+body{
+    background-color: #9c44c2;
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+text-align: center;
+font-size: 30px;
+font-weight: 100;
+}
+
+div {
+    width: 500px;
+    background-color: white;
+    padding: 20px;
+    margin-top: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    width: 300px;
+    
+}
+input{
+    width: 300px;
+    height: 20px;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+
+button{
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    background-color: #9c44c2;
+    font-size: 20px;
+    border: none;
+width: 100%;
+}
+
